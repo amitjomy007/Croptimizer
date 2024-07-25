@@ -1,19 +1,21 @@
-<h1>Croptimizer</h1>
+# Croptimizer
 
-<h1>Key Highlights ✨</h1>
-• Sign in & Sign Up using MongoDB
-• Fully Functional Commenting System with signIn details
-• Two machine learning models to predict various stuff
-• OpenWeather API to display Live weather
-• Articles Page
+## Key Highlights ✨
+- Sign in & Sign Up using MongoDB
+- Fully Functional Commenting System with signIn details
+- Two machine learning models to predict various stuff
+- OpenWeather API to display Live weather
+- Articles Page
 
-Also Checkout Chitraksh Vasantati's Github (ML Models Collaborator)
-<h1>Programs Used</h1>
-• Python Flask
-• MongoDB
-• HTML,CSS, Javascript
-• Open Weather APIs
-• Machine Learning Models using Sklearn, deeplearning using tensorflow. Pandas for data and Ai for scraping (Done by @Chitraksh Vasantati)
+Also, Checkout Chitraksh Vasantati's Github (ML Models Collaborator).
+
+## Programs Used
+- Python Flask
+- MongoDB
+- HTML, CSS, JavaScript
+- Open Weather APIs
+- Machine Learning Models using Sklearn, deep learning using TensorFlow, Pandas for data, and AI for scraping (Done by @Chitraksh Vasantati)
+
 
 <h1>SnapShots 📸</h1>
 
