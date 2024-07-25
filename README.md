@@ -37,8 +37,11 @@ Also, Checkout Chitraksh Vasantati's Github (ML Models Collaborator). https://gi
 •HomePage
 ![image](https://github.com/user-attachments/assets/5db93b04-c41f-45cc-a7d1-b3fb4ed4a96b)
 
-Miscellaneous
+• Articles Page
+
 ![image](https://github.com/user-attachments/assets/daf0277f-b792-48cb-b17e-1d376dec009c)
+
+•Comment Section Snapshot
 ![image](https://github.com/user-attachments/assets/1dc73fba-1887-4b4b-9d2b-ae30e04dfc17)
 
 
