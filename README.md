@@ -20,8 +20,7 @@
 
 
 •Forest Fire Predictor using ML
-![image](https://github.com/user-attachments/assets/a08570e0-6a57-49f2-b70e-e87c90286d99)
-
+![image](https://github.com/user-attachments/assets/3f04e3d1-eb8d-4fb7-a8a4-fd241ef4283e)
 •Crop Yield Predictor using ML
 ![image](https://github.com/user-attachments/assets/11b469b5-ca78-4a90-9ad6-2a3967a7017a)
 
