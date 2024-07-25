@@ -7,12 +7,13 @@
 • OpenWeather API to display Live weather
 • Articles Page
 
+Also Checkout Chitraksh Vasantati's Github (ML Models Collaborator)
 <h1>Programs Used</h1>
 • Python Flask
 • MongoDB
 • HTML,CSS, Javascript
 • Open Weather APIs
-• Machine Learning Models using Keras, (Done by @Chitraksh Vasantati)
+• Machine Learning Models using Sklearn, deeplearning using tensorflow. Pandas for data and Ai for scraping (Done by @Chitraksh Vasantati)
 
 <h1>SnapShots 📸</h1>
 
