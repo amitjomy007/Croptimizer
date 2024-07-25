@@ -15,8 +15,6 @@
 • Machine Learning Models using Keras, (Done by @Chitraksh Vasantati)
 
 <h1>SnapShots 📸</h1>
-•Current Weather & Forecast using OpenWeather API
-![image](https://github.com/user-attachments/assets/3f04e3d1-eb8d-4fb7-a8a4-fd241ef4283e)
 
 •Current Weather & Forecast using OpenWeather API 
 ![image](https://github.com/user-attachments/assets/3f04e3d1-eb8d-4fb7-a8a4-fd241ef4283e)
