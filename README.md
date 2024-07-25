@@ -16,11 +16,13 @@
 
 <h1>SnapShots 📸</h1>
 •Current Weather & Forecast using OpenWeather API
-![image](https://github.com/user-attachments/assets/c9afadbe-181e-4e0b-a28f-00e41f16a61c)
-
-
-•Forest Fire Predictor using ML
 ![image](https://github.com/user-attachments/assets/3f04e3d1-eb8d-4fb7-a8a4-fd241ef4283e)
+
+•Current Weather & Forecast using OpenWeather API 
+![image](https://github.com/user-attachments/assets/3f04e3d1-eb8d-4fb7-a8a4-fd241ef4283e)
+•Forest Fire Predictor using ML
+![image](https://github.com/user-attachments/assets/aa094670-6b0c-4f64-9285-1a58952f1099)
+
 •Crop Yield Predictor using ML
 ![image](https://github.com/user-attachments/assets/11b469b5-ca78-4a90-9ad6-2a3967a7017a)
 
