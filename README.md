@@ -14,7 +14,7 @@ Also, Checkout Chitraksh Vasantati's Github (ML Models Collaborator). https://gi
 - MongoDB
 - HTML, CSS, JavaScript
 - Open Weather APIs
-- Machine Learning Models using Sklearn, deep learning using TensorFlow, Pandas for data, and AI for scraping (Done by @Chitraksh Vasantati)
+- Machine Learning Models using Sklearn, deep learning using TensorFlow, Pandas for data, and AI for scraping (Done by @Chitraksh Vasantati) https://github.com/VasantatiChitraksh
 
 
 <h1>SnapShots 📸</h1>
