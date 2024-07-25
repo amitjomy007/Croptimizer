@@ -16,7 +16,8 @@
 
 <h1>SnapShots 📸</h1>
 •Current Weather & Forecast using OpenWeather API
-![image](https://github.com/user-attachments/assets/30ac4366-4a26-42e0-9caa-fdb23e8de9de)
+![image](https://github.com/user-attachments/assets/c9afadbe-181e-4e0b-a28f-00e41f16a61c)
+
 
 •Forest Fire Predictor using ML
 ![image](https://github.com/user-attachments/assets/a08570e0-6a57-49f2-b70e-e87c90286d99)
