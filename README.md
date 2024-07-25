@@ -7,7 +7,7 @@
 - OpenWeather API to display Live weather
 - Articles Page
 
-Also, Checkout Chitraksh Vasantati's Github (ML Models Collaborator).
+Also, Checkout Chitraksh Vasantati's Github (ML Models Collaborator). https://github.com/VasantatiChitraksh
 
 ## Programs Used
 - Python Flask
